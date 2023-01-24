@@ -6,3 +6,4 @@
 1. `npx create-next-app@latest` <br>
 2. `npm install -D tailwindcss postcss autoprefixer` <br>
 3. `npx tailwindcss init -p` <br> 
+4. `npm install @mantine/core` <br>
