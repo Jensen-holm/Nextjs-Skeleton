@@ -1,6 +1,9 @@
 # Nextjs w/ Tailwind Template
 1. `git clone ` <br>
-2. `rm -rf .git` <br>
+2. `cd Nextjs-Skeleton` <br>
+3. `rm -rf .git` <br>
+4. `npm install` <br>
+5. `npm run dev` <br>
 
 ## How I set this up 
 1. `npx create-next-app@latest` <br>
