@@ -1,13 +1,9 @@
-import { Title, Center } from "@mantine/core";
-
-// TODO -> put some examples of Tailwind into this example component
+import { Title } from "@mantine/core";
 
 export default function Hello() {
     return (
-        <Center>
-            <Title>
+            <Title className="text-center first-letter:m-8">
                 Hello ! ! !
             </Title>
-        </Center>
     )
 }
